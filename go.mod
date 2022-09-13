@@ -1,4 +1,4 @@
-module github.com/marcboeker/go-duckdb
+module github.com/andyyu2004/go-duckdb
 
 go 1.18
 
